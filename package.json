@@ -9,7 +9,7 @@
     "start": "yarn build && nodemon ./dist/server/index.js"
   },
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "immer": "^5.0.0",
     "jest": "^24.9.0",
     "react": "^16.12.0",
